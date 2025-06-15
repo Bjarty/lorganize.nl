@@ -2783,6 +2783,7 @@ input, select, textarea {
 			}
 
 			.tiles article:before {
+				background-color: #E7E0D6;
 				-moz-transition: opacity 0.5s ease;
 				-webkit-transition: opacity 0.5s ease;
 				-ms-transition: opacity 0.5s ease;
