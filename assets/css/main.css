@@ -116,7 +116,7 @@ input, select, textarea {
 /* Type */
 
 	body, input, select, textarea {
-		color: #ffffff;
+		color: #3E3E3E;
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
@@ -168,7 +168,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ffffff;
+		color: #3E3E3E;
 		font-weight: 600;
 	}
 
@@ -181,7 +181,7 @@ input, select, textarea {
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #ffffff;
+		color: #3E3E3E;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
@@ -1784,7 +1784,7 @@ input, select, textarea {
 
 			header.major > :first-child:after {
 				content: '';
-				background-color: #ffffff;
+				background-color: #3E3E3E;
 				display: block;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;
@@ -1890,7 +1890,7 @@ input, select, textarea {
 		}
 
 	label {
-		color: #ffffff;
+		color: #3E3E3E;
 		display: block;
 		font-size: 0.8em;
 		font-weight: 600;
@@ -1956,7 +1956,7 @@ input, select, textarea {
 	}
 
 		select option {
-			color: #ffffff;
+			color: #3E3E3E;
 			background: #E7E0D6;
 		}
 
@@ -1999,7 +1999,7 @@ input, select, textarea {
 		input[type="checkbox"] + label,
 		input[type="radio"] + label {
 			text-decoration: none;
-			color: #ffffff;
+			color: #3E3E3E;
 			cursor: pointer;
 			display: inline-block;
 			font-weight: 300;
@@ -2040,7 +2040,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:checked + label:before,
 		input[type="radio"]:checked + label:before {
-			background: #ffffff;
+			background: #3E3E3E;
 			border-color: #9bf1ff;
 			content: '\f00c';
 			color: #E7E0D6;
@@ -2133,7 +2133,7 @@ input, select, textarea {
 		}
 
 		.icon.alt:before {
-			background-color: #ffffff;
+			background-color: #3E3E3E;
 			border-radius: 100%;
 			color: #E7E0D6;
 			display: inline-block;
@@ -2397,7 +2397,7 @@ input, select, textarea {
 			}
 
 				ul.pagination li > .page.active {
-					background-color: #ffffff;
+					background-color: #3E3E3E;
 					color: #E7E0D6;
 				}
 
@@ -2457,7 +2457,7 @@ input, select, textarea {
 		}
 
 		table th {
-			color: #ffffff;
+			color: #3E3E3E;
 			font-size: 0.9em;
 			font-weight: 600;
 			padding: 0 0.75em 0.75em 0.75em;
@@ -2516,8 +2516,8 @@ input, select, textarea {
 		background-color: transparent;
 		border: 0;
 		border-radius: 0;
-		box-shadow: inset 0 0 0 2px #ffffff;
-		color: #ffffff;
+		box-shadow: inset 0 0 0 2px #3E3E3E;
+		color: #3E3E3E;
 		cursor: pointer;
 		display: inline-block;
 		font-size: 0.8em;
@@ -2671,7 +2671,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #ffffff;
+			background-color: #3E3E3E;
 			box-shadow: none;
 			color: #E7E0D6;
 		}
@@ -3145,7 +3145,7 @@ input, select, textarea {
 				-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 				transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-				background-color: #ffffff;
+				background-color: #3E3E3E;
 				color: #E7E0D6;
 				display: inline-block;
 				line-height: 1.65em;
