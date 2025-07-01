@@ -1,1 +1,78 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>L'organize</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>L'organize</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Diensten</a>
+      <a href="#">Portfolio</a>
+      <a href="#">Over mij</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <section>
+    <h2>Ontwar je leven met L'organize</h2>
+    <p>'Ach, dat ruim ik later wel op' – ‘ik kan ook nooit wat vinden’</p>
+
+    <img src="images/Organized-2.jpg" alt="Organized Home" />
+
+    <p>
+      Wie kent het niet? Het opruimen van je huis is niet de leukste klus, maar wel eentje die veel invloed op je kan hebben. Organizen kan iedereen leren!
+    </p>
+    <p><a href="contact.html" class="button">Get Started</a></p>
+  </section>
+
+  <section class="columns">
+    <div>
+      <h3>Meer Rust, Ruimte & Focus</h3>
+      <ul>
+        <li>✅ Overzicht in huis en hoofd</li>
+        <li>✅ Alleen wat je écht gebruikt</li>
+        <li>✅ Meer energie</li>
+        <li>✅ Tijd voor wat jou gelukkig maakt</li>
+      </ul>
+    </div>
+    <div>
+      <h3>Minder Chaos & Frustratie</h3>
+      <ul>
+        <li>❌ Nooit meer eindeloos zoeken</li>
+        <li>❌ Geen dubbele aankopen</li>
+        <li>❌ Geen stress door rommel</li>
+        <li>❌ Minder chaos door structuur</li>
+      </ul>
+    </div>
+  </section>
+
+  <div class="gallery">
+    <img src="images/afwasmiddel_lelijk.jpg" alt="Voorbeeld 1" />
+    <img src="images/afwasmiddel_potten_leeg.jpg" alt="Voorbeeld 2" />
+    <img src="images/afwasmiddel_vullen.jpg" alt="Voorbeeld 3" />
+    <img src="images/afwasmiddel_potten_labels.jpg" alt="Voorbeeld 4" />
+  </div>
+
+  <section>
+    <h2>Contact</h2>
+    <form method="POST" action="https://formsubmit.co/garciavanleeuwen@gmail.com">
+      <input type="text" name="name" placeholder="Naam" required />
+      <input type="email" name="email" placeholder="Email" required />
+      <textarea name="message" rows="5" placeholder="Bericht" required></textarea>
+      <button type="submit">Verstuur</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 L'organize — Website door HTML5 UP</p>
+  </footer>
+
+</body>
+</html>
 
