@@ -3589,11 +3589,11 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #E7E0D6;
 	}
 
 		#main > * {
-			border-top: solid 1px rgba(212, 212, 255, 0.1);
+			border-top: solid 1px rgba(62, 62, 62, 0.1);
 		}
 
 			#main > *:first-child {
