@@ -2151,11 +2151,11 @@ input, select, textarea {
 	}
 
 	a.icon.alt:hover:before {
-		background-color: #6fc3df;
+		background-color: #a6865a;
 	}
 
 	a.icon.alt:active:before {
-		background-color: #37a6cb;
+		background-color: #d6b17e;
 	}
 
 /* Image */
@@ -2402,12 +2402,12 @@ input, select, textarea {
 				}
 
 					ul.pagination li > .page.active:hover {
-						background-color: #9bf1ff;
+						background-color: #d6b17e;
 						color: #E7E0D6 !important;
 					}
 
 					ul.pagination li > .page.active:active {
-						background-color: #53e3fb;
+						background-color: #8f7756;
 					}
 
 			ul.pagination li:first-child {
