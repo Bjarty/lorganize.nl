@@ -2831,19 +2831,19 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #f0e6d8;
+				background-color: #c97355;
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #8d82c4;
+				background-color: #a39581;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #A35A40;
+				background-color: #f0e6d8;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #d9912b;
+				background-color: #ad4824;
 			}
 
 			.tiles article:nth-child(6n - 1):before {
