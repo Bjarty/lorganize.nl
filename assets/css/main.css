@@ -295,6 +295,12 @@ input, select, textarea {
 		text-align: right;
 	}
 
+/* Subtitle */
+	.subtitle {
+	  font-size: 0.7em; /* or any size you want */
+	  display: block;   /* optional, for line break */
+	}
+
 /* Row */
 
 	.row {
