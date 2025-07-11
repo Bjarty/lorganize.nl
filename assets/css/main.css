@@ -2841,11 +2841,11 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #f2e0c7;
+				background-color: #f0e6d8;
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #f0e6d8;
+				background-color: #f2e0c7;
 			}
 
 			.tiles article:nth-child(6n - 2):before {
