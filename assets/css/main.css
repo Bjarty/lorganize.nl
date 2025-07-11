@@ -2837,23 +2837,28 @@ input, select, textarea {
 			}
 
 			.tiles article:nth-child(6n - 5):before {
-				background-color: #ffbba3;
-				/* background-color: #c97355; */
+				background-color: #B45827;
+				/* background-color: #c97355; 
+				background-color: #ffbba3; */
 			}
 
 			.tiles article:nth-child(6n - 4):before {
-				background-color: #e69275;
-				/* background-color: #f0e6d8; */
+				background-color: #E6C2A8;
+				/* background-color: #f0e6d8;
+				background-color: #e69275; */
+				
 			}
 
 			.tiles article:nth-child(6n - 3):before {
-				background-color: #c97355;
-				/* background-color: #f2e0c7; */
+				background-color: #9A400E;
+				/* background-color: #f2e0c7; 
+				background-color: #c97355; */
 				
 			}
 
 			.tiles article:nth-child(6n - 2):before {
-				background-color: #ad4824;
+				background-color: #D4824E;
+				/* background-color: #ad4824; */
 			}
 
 			.tiles article:nth-child(6n - 1):before {
